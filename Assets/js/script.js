@@ -1,3 +1,5 @@
+var compression = require('compression')
+
 $(document).ready(function() {
 
     // Transition effect for navbar and back-to-top icon
